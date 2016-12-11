@@ -1,3 +1,5 @@
+build/
+
 # CMake assets 
 CMakeCache.txt
 CMakeLists.txt.user
