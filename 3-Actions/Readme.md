@@ -1,6 +1,7 @@
 # Actions
 
 User action to clear the text area on button press / shortcut
+[Link](https://techbase.kde.org/Special:MyLanguage/Development/Tutorials/Using_Actions)
 
 ### How to build, install and Run
 
